@@ -5,5 +5,6 @@ public class Class1
 	public Class1()
 	{
 		int item = 10;
+		string changed;
 	}
 }
